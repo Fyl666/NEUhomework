@@ -1,0 +1,17 @@
+main.c
+igetput.c
+iallfre.c
+ballfre.c
+name.c
+access.c
+log.c
+close.c
+creat.c
+dir.c
+format.c
+delete.c
+open.c
+halt.c
+rdwt.c
+install.c
+
