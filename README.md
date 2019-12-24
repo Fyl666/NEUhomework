@@ -8,7 +8,7 @@
 
 - 每个文件夹内都有一个单独的README文件，有文件夹大小，还会告诉你一些重要的事情 :)
 
-- 目前总大小：233 MB（PS：github有个仓库信息API：语法:  https://api.github.com/repos/[Username]/[Repos] 实例: https://api.github.com/repos/qiziqiang/paint ）
+- 目前总大小：约300 MB（PS：github有个仓库信息API：语法:  https://api.github.com/repos/[Username]/[Repos] 实例: https://api.github.com/repos/qiziqiang/paint ）
 
 - github的历史纪录很好用（Replace github.com with github.githistory.xyz in any file url）
 
