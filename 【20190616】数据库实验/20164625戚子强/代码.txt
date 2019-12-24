@@ -1,0 +1,17 @@
+-- 1
+SELECT sname
+FROM student,sc
+WHERE student.sno=sc.sno AND sc.grade>90
+
+-- 2
+SELECT student.sno,AVG(grade) FROM student,sc WHERE student.sno in (
+	SELECT sno FROM sc,course WHERE sc.cno=course.cno AND course.cname='数据库原理' AND sc.sno in(
+		SELECT sno FROM sc,course WHERE sc.cno=course.cno AND course.cname='操作系统'))
+GROUP BY student.sno
+
+
+-- 3
+SELECT student.ssex,AVG(sage)
+FROM student
+GROUP BY student.ssex
+
