@@ -10,10 +10,6 @@
 
 - 目前总大小：约300 MB（PS：github有个仓库信息API：语法:  https://api.github.com/repos/[Username]/[Repos] 实例: https://api.github.com/repos/qiziqiang/paint ）
 
-- github的历史纪录很好用（Replace github.com with github.githistory.xyz in any file url）
-
-![history-demo](history-demo.gif)
-
 
 ### TODO
 
